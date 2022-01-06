@@ -25,11 +25,6 @@ img{
     height: 250px;
     object-fit: cover;
 }
-
-.sec{
-    
-}
-
 .container{
     display: flex;
     text-decoration: none;
@@ -39,7 +34,7 @@ img{
     margin: 20px;
     
 }
-.third-devSec{
+.devSec{
     text-align: center;
     width: 200px;
     border: 15px;
@@ -54,12 +49,6 @@ img{
     padding: 5px;
     margin: 5px;
 }
-.img-div{
-    border: 15px;
-    margin: 15px;
-    padding: 15px;
-}
-
 .divSec{
     text-align: center;
     width: 300px;
