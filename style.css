@@ -14,3 +14,34 @@ body{
 span{
     color: greenyellow;
 }
+
+
+
+
+
+
+
+.forth-sec{
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 5px;
+    border-radius: 10px;  
+}
+.link-button{
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.forth-divSec{
+    
+}
+.forth-container{
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+    border-left: 20px;
+    padding-left: 20px;
+}
