@@ -14,7 +14,15 @@ h2{
 span{
     color: rgb(54, 148, 75);
 }
-
+.mission{
+    background-color: rgb(231, 218, 231);
+}
+.vission{
+    background-color: rgb(207, 190, 168);
+}
+.goal{
+    background-color: rgb(193, 218, 226);
+}
 #first-box{
     width: 300px;
     height: 100px;
