@@ -1,7 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-
+h1{
+    font-size: 30px;
+    font-weight: 800;
+}
+h2{
+    font-size: 30px;
+    font-weight: 500;
+}
 .footer{
     position: fixed;
     left: 0;
@@ -12,20 +19,34 @@ body{
     text-align: center;
 }
 span{
-    color: greenyellow;
+    color: rgb(54, 148, 75);
 }
 
 
 
 
+.third-container{
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+    border-top: 10px;
+    border-left: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
 
 
-
-.forth-sec{
+#forth-sec{
     text-align: center;
     text-decoration: none;
     margin-bottom: 5px;
-    border-radius: 10px;  
+    background: whitesmoke;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 15%;
+    width: 100%;
+
 }
 .link-button{
     text-align: center;
@@ -35,13 +56,23 @@ span{
     padding: 5px;
     margin: 5px;
 }
-.forth-divSec{
-    
+.img-div{
+    width: 35%;
+    image-resolution: 480px;
 }
 .forth-container{
     display: flex;
     text-decoration: none;
     text-align: center;
+    border-top: 10px;
     border-left: 20px;
     padding-left: 20px;
+    padding-top: 20px;
+}
+.forth-divSec{
+    text-align: center;
+    width: 300px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
 }
